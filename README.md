@@ -18,3 +18,9 @@ Project Objective:
 1.2 Scope:
    Boundaries: CIS/CS/BIT/AI/DS departments is included. 
 Deliverable: A website that facilitate the supervision process will be handed over to the customer at the end.  
+
+Implementation: 
+
+![image](https://user-images.githubusercontent.com/84680404/119273307-f8879380-bc12-11eb-8ea7-c7e683bd9408.png)
+![image](https://user-images.githubusercontent.com/84680404/119273310-fde4de00-bc12-11eb-80a9-dc551a11bc41.png)
+
