@@ -1,6 +1,9 @@
 # graduation-schedule-project using XAMPP server 
 graduation schedule project
-![image](https://user-images.githubusercontent.com/84680404/119273218-8ca52b00-bc12-11eb-8346-44a66b34e641.png)
+
+![image](https://user-images.githubusercontent.com/84680404/119273259-b5c5bb80-bc12-11eb-8de5-b1f02ccec28a.png)
+
+
 
  The business objectives: 
 - To facilitate the project management process between supervisors and students. 
